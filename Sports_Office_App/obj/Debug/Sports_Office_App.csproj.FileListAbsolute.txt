@@ -1,0 +1,12 @@
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\bin\Debug\Sports_Office_App.exe.config
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\bin\Debug\athletes_database.mdf
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\bin\Debug\athletes_database_log.ldf
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\bin\Debug\Sports_Office_App.exe
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\bin\Debug\Sports_Office_App.pdb
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.csprojResolveAssemblyReference.cache
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.Properties.Resources.resources
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.csproj.GenerateResource.Cache
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.exe
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.pdb
+c:\users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.Main_Form.resources
+C:\Users\jazzybert26\documents\visual studio 2013\Projects\Sports_Office_App\Sports_Office_App\obj\Debug\Sports_Office_App.login_form.resources
