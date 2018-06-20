@@ -16,5 +16,21 @@ namespace Sports_Office_App
         {
             InitializeComponent();
         }
+
+        private void exit_btn_Click(object sender, EventArgs e)
+        {
+            DialogResult answer = MessageBox.Show("Are your sure you want to Exit the program?", "Confirm ", MessageBoxButtons.YesNo);
+            if (answer == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void ok_btn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            new Main_Form().ShowDialog();
+            this.Close();
+        }
     }
 }
